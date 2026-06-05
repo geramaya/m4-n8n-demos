@@ -36,3 +36,5 @@ docs/website/resources/
 docs/website/.hugo_build.lock
 docs/website/hugo_http.log
 docs/website/themes/
+
+docs/website/.hugo.pid
