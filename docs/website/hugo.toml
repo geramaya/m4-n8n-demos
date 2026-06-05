@@ -52,3 +52,6 @@ defaultContentLanguage = "de"
   [[module.mounts]]
     source = "data"
     target = "data"
+  [[module.mounts]]
+    source = "../architecture"
+    target = "content/architecture"
